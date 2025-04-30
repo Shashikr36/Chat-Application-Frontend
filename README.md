@@ -103,15 +103,6 @@ Lucide React         - ^0.469.0
 Tailwind CSS         - ^3.4.17  
 DaisyUI              - ^4.12.23  
 
-Contributing
-------------
-
-Contributions are welcome! Feel free to submit issues or pull requests to improve the project.
-
-License
--------
-
-This project is licensed under the MIT License.
 
 Author
 ------
